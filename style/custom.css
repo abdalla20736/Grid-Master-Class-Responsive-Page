@@ -1,0 +1,23 @@
+.flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.col {
+  flex-direction: column;
+}
+
+.cl-light-blue {
+  color: #27b9c2;
+}
+
+.cl-dark-gray {
+  color: #333;
+}
